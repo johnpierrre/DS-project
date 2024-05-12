@@ -8,6 +8,6 @@ pipeline capable of determining the survivability of patients at 1 year after di
 To analyse this file you should have a platform to open the Jupyter Notebook (you can find it online if you don't have one).
 
 This project was developed by:
-Francisco Ribeiro ()
+Francisco Ribeiro (Kyuri-beiro)
 Henrique Teixeira (UShouldRun)
-João Ferreira ()
+João Ferreira (johnpierrre)
