@@ -19,7 +19,9 @@ fetoprotein (AFP), and hemoglobin levels as most predictive survival factors for
 carcinoma.” Health Informatics Journal 27.1 
 (2021). https://journals.sagepub.com/doi/10.1177/1460458220984205
 
+# Credits
 This project was developed by:
-Francisco Ribeiro (Kyuri-beiro)
-Henrique Teixeira (UShouldRun)
-João Ferreira (johnpierrre)
+
+Francisco Ribeiro (Kyuri-beiro);
+Henrique Teixeira (UShouldRun);
+João Ferreira (johnpierrre);
