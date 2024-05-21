@@ -7,6 +7,19 @@ pipeline capable of determining the survivability of patients at 1 year after di
 
 To analyse this file you should have a platform to open the Jupyter Notebook (you can find it online if you don't have one).
 
+# Documentation
+In this document, you will find different modules which correspond to the procedures we took during the project.
+You will be able to jump to those parts if you wish to do so by clicking on "Go to 'module'".
+
+# Dependencies
+1. python3
+2. pandas
+3. sklearn
+4. numpy
+5. matplotlib
+6. imblearn
+7. scipy
+
 # Bibliography 
 1. EASL Clinical Practice Guidelines: Management of hepatocellular carcinoma. Journal of 
 Hepatology — The home of liver research. https://socgastro.org.br/novo/wpcontent/uploads/2021/01/easl-easl-guidelines-management-of-hepatocellular-carcinoma.pdf
